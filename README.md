@@ -14,6 +14,7 @@ This project was built entirely without using a GUI.
 Multiple Levels: New levels unlock with increased enemies as you complete each maze.
 Power-ups: Collect 'P' to decrease the enemy count and make it easier to navigate the maze.
 Simple Controls: Navigate the maze using keyboard inputs.
+Animations: Starting animations and loading bar
 # Getting Started
 Prerequisites
 C compiler (e.g., GCC)
